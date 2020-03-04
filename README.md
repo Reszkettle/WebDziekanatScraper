@@ -1,6 +1,8 @@
 # WebDziekanatScraper: Web-Dziekanat semester's grade fetching application
 WDScraper is a simple web-scraper which purpose is to automate the review of grades and send notifications to email if a new grade appeared on dziekanat. This application works only for polish Lodz University of Technology. 
 
+## Version of python used:  **Python 3.8.1**
+
 ## Built using following modules:
 
 * [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - used for web-scraping
